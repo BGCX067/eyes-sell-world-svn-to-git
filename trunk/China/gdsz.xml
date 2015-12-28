@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+			<video name="暂无视频，我们会尽快添加">
+					<en>jiangsu nanjing </en>
+			<url>rtsp://58.223.2.7:554/service?UserId=tykjt::1;PuId-ChannelNo=010175000101418400-010175010501418401::1;PlayMethod=0::1;PuProperty=0::1;VauPtzAdd=58.223.2.7::1;VauPtzPort=5060::1;VauRtspAdd=58.223.2.7::1;VauRtspPort=554::1;StreamingType=2::1;hashtoken=0</url>
+			</video>
+			
+</root>

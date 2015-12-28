@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+			<video name="枣山路">
+				<en>枣山路</en>
+			<url>rtsp://218.201.202.233/broadcast/gy_zsl.rm</url>
+			</video>
+			<video name="中华北路段">
+					<en>枣山路</en>
+			<url>rtsp://218.201.202.233/broadcast/gy_zhbl.rm</url>
+			</video>
+			<video name="北京路">
+					<en>枣山路</en>
+			<url>rtsp://218.201.202.233/broadcast/gy_bjl.rm</url>
+			</video>
+      <video name="大西门瑞金中路段">
+      		<en>枣山路</en>
+			<url>rtsp://218.201.202.233/broadcast/gy_rjzldxm.rm</url>
+			</video>
+			<video name="喷水池延安中路段">
+					<en>枣山路</en>
+			<url>rtsp://218.201.202.233/broadcast/gy_yazlpsc.rm</url>
+			</video>
+			<video name="中华北路喷水池">
+					<en>枣山路</en>
+			<url>rtsp://218.201.202.233/broadcast/gy_zhblpsc.rm</url>
+			</video>
+			<video name="青云路段">
+					<en>枣山路</en>
+			<url>rtsp://218.201.202.233/broadcast/gy_qyl.rm</url>
+			</video>
+			<video name="遵义路人民广场段">
+					<en>枣山路</en>
+			<url>rtsp://218.201.202.233/broadcast/gy_zunyilurmgc.rm</url>
+			</video>
+			<video name="中华路都司路口段">
+					<en>枣山路</en>
+			<url>rtsp://218.201.202.233/broadcast/gy_zhldslk.rm</url>
+			</video>
+			<video name="遵义路展览馆段">
+					<en>枣山路</en>
+			<url>rtsp://218.201.202.233/broadcast/gy_zunyiluzlg.rm</url>
+			</video>
+			<video name="神奇路兴关路口段">
+					<en>枣山路</en>
+			<url>rtsp://218.201.202.233/broadcast/gy_xgl.rm</url>
+			</video>
+			<video name="小十字富水南路段">
+					<en>枣山路</en>
+			<url>rtsp://218.201.202.233/broadcast/gy_fsnlxsz.rm</url>
+			</video>
+</root>

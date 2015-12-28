@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+			<video name=" 以色列特拉维夫海豚馆海滩实况">
+				<en>亚太1</en>
+			<url>mmsh://82.80.248.191:80/rtdolphinrt</url>
+			</video>
+			<video name="以色列特拉维夫海滩实况影像">
+				<en>亚2</en>
+			<url>mmsh://82.80.248.191:80/rthiltonrt</url>
+			</video>
+		  <video name="韩国江原道春川">
+				<en>亚太3</en>
+			<url>mmsh://222.113.53.4/nalsi</url>
+			</video>
+			<video name="澳大利亚.维多利亚.毒蜘蛛">
+				<en>亚太5</en>
+			<url>mmsh://mvmedia.museum.vic.gov.au/TarantulaWebCam?MSWMExt=.asf </url>
+			</video>
+						<video name="泰国.苏梅岛.拉麦海滩 不稳定">
+				<en>亚太1</en>
+			<url>mms://wms.th66.com/Livecam194</url>
+			</video>
+			<video name="俄罗斯PCH电台演播室 不稳定">
+				<en>亚太1</en>
+			<url>mms://wms.th66.com/Livecam203</url>
+			</video>
+			<video name="以色列.太巴列.加利利湖 http 不稳定">
+				<en>亚太1</en>
+			<url>http://70.87.194.178/galilee</url>
+			</video>
+			
+</root>

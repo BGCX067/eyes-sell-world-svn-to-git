@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>		
+<root> 
+<video name="瑞典 瑟尔沃斯堡市">
+	<en>Aierlan</en>
+<url>http://torso.axiscam.net/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="瑞典 穆拉市">
+	<en>Aierlan</en>
+<url>http://kamera.alvdalen.se/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="瑞士 首都伯尔尼 Laupen 城市风景">
+	<en>Aierlan</en>
+<url>http://hnhn.dyndns.tv:8400/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240::1;data=v.mjpg</url>
+</video>
+<video name="瑞士 首都伯尔尼 Spiez 阿达尔波登山2">
+	<en>Aierlan</en>
+<url>http://marti-adelboden.dyndns.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="瑞士 首都伯尔尼 Lyss 城市街景">
+	<en>Aierlan</en>
+<url>http://axis-lyss2.axiscam.net:8081/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="爱尔兰 Ireland Wexford Wexford 韦克斯福德湖滨小镇">
+	<en>Aierlan</en>
+<url>http://93.92.12.9/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰 阿姆斯特丹系列2">
+	<en>Aierlan</en>
+<url>http://kzvw.axiscam.net/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="荷兰 Gorredijk">
+	<en>Aierlan</en>
+<url>http://brugburdaard.axiscam.net/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="挪威 努尔菲尤尔埃德">
+	<en>Aierlan</en>
+<url>http://194.248.190.92/mjpg/1/video.mjpg</url>
+</video>
+<video name="挪威 Ski ">
+	<en>Aierlan</en>
+<url>http://drobak.mine.nu:8000/mjpg/1/video.mjpg?resolution=320x240</url>
+</video>
+<video name="法国 下诺曼底 Caen 诺曼底卡昂球场2">
+	<en>Aierlan</en>
+<url>http://62.160.78.54/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="法国 巴黎大区 Draveil 海港">
+	<en>Aierlan</en>
+<url>http://81.255.79.81:20091/-wvhttp-01-/getoneshot?v=320::1;frame_count=300::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="法国 巴黎大区 Choisy-le-roi 海洋馆">
+	<en>Aierlan</en>
+<url>http://80.13.189.135/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="法国 巴黎大区 Paris 办公室11">
+	<en>Aierlan</en>
+<url>http://premium-computer.fr:9002/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="法国 巴黎大区 Paris 海景20">
+	<en>Aierlan</en>
+<url>http://217.128.152.166:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="法国 巴黎大区 Paris 巴黎湖景37">
+	<en>Aierlan</en>
+<url>http://80.14.145.27/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="法国 普罗旺斯 山上的别墅">
+	<en>Aierlan</en>
+<url>http://mandelieu.axiscam.net:8000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="法国 普罗旺斯-阿尔卑斯 Nice 城市鸟瞰2">
+	<en>Aierlan</en>
+<url>http://82.230.103.244/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="法国 罗纳-阿尔卑斯 民宅">
+	<en>Aierlan</en>
+<url>http://217.128.101.75/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="法国 下诺曼底 Rai 酒吧">
+	<en>Aierlan</en>
+<url>http://webcam.ville-saintes.fr:80/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+			
+</root> 

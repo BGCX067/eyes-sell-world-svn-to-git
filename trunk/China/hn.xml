@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+ <root>
+			<video name="海口半山花园路口">
+			<en>海口半山花园路口</en>
+			<url>rtsp://221.182.247.4/broadcast/tyhn_01.rm</url>
+			</video>
+		  <video name="海口金龙路">
+		  	<en>海口金龙路</en>
+			<url>rtsp://221.182.247.4/broadcast/tyhn_02.rm</url>
+			</video>	
+			<video name="三亚和平街">
+				<en>三亚和平街</en>
+			<url>rtsp://221.182.247.4/broadcast/ty_hnsyjtlk_01.rm</url>
+			</video>
+		  <video name="三亚解放二路">
+		  	<en>三亚解放二路</en>
+			<url>rtsp://221.182.247.4/broadcast/ty_hnsyjtlk_02.rm</url>
+			</video>		
+</root>

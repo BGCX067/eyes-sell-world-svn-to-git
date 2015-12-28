@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+			<video name="国家航空航天局.国际空间站1">
+				<en>United</en>
+			<url>mmsh://a1709.l1856953708.c18569.g.lm.akamaistream.net/D/1709/18569/v0001/reflector:53708</url>
+			</video>
+			<video name="佐治亚州.亚特兰大.蜂巢">
+				<en>United</en>
+			<url>mmsh://live.camstreams.com/csbeeman?MSWMExt=.asf</url>
+			</video>
+			<video name="北卡罗来纳.野鹿">
+				<en>United</en>
+			<url>mmsh://live.camstreams.com/cskf6wax?MSWMExt=.asf</url>
+			</video>
+			<video name="佛罗里达.两个朋友餐馆">
+				<en>United</en>
+			<url>mmst://alt.floridakeysmedia.com/twofriends</url>
+			</video>
+			<video name="佛罗里达.帆船码头酒吧">
+				<en>United</en>
+			<url>mmst://alt.floridakeysmedia.com/schoonerwharf</url>
+			</video>
+			<video name="佛罗里达.杜瓦尔街">
+				<en>United</en>
+			<url>mmst://origin.floridakeysmedia.com/liveduvalstreet</url>
+			</video>	
+			<video name="美国.密歇根.卡尔卡斯卡.野外">
+				<en>United</en>
+			<url>mmsh://live.camstreams.com/csnorthtroll</url>
+			</video>   
+			<video name="美国.佛罗里达.切萨皮克度假村②">
+				<en>United</en>
+			<url>mmst://alt.floridakeysmedia.com/chesapeake</url>
+			</video>
+			<video name="美国.佛罗里达.提基酒吧">
+				<en>United</en>
+			<url>mmst://alt.floridakeysmedia.com/tikibar</url>
+			</video>
+			<video name="美国.宾夕法尼亚.Leesport.公路">
+				<en>United</en>
+			<url>mmsh://live.camstreams.com/csvignet?MSWMExt=.asf</url>
+			</video>
+			<video name="美国.印第安纳波利斯.地下室或窗前">
+				<en>United</en>
+			<url>mmsh://live.camstreams.com/csbarnacles?MSWMExt=.asf</url>
+			</video>
+
+</root>

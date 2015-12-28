@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root> 
+<video name="美洲1">
+<en>America-1</en>
+<url>http://eyes-sell-world.googlecode.com/svn/trunk/America/mzjx11.xml</url>
+</video>
+<video name="美洲2">
+	<en>America-2</en>
+<url>http://eyes-sell-world.googlecode.com/svn/trunk/America/mzjx6.xml</url>
+</video>
+<video name="美洲3">
+	<en>America-3</en>
+<url>http://eyes-sell-world.googlecode.com/svn/trunk/America/mzjx4.xml</url>
+</video>
+<video name="美洲4">
+	<en>America-4</en>
+<url>http://eyes-sell-world.googlecode.com/svn/trunk/America/mzjx1.xml</url>
+</video>
+<video name="美洲5">
+	<en>America-5</en>
+<url>http://eyes-sell-world.googlecode.com/svn/trunk/America/mzjx2.xml</url>
+</video>
+</root> 

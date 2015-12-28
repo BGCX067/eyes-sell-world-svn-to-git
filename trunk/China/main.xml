@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root> 
+	<video name="贵州">
+	<en>GuiZhou</en>
+	<url>http://eyes-sell-world.googlecode.com/svn/trunk/China/gzgy.xml</url>
+	</video>
+	<video name="海南">
+	<en>HaiNan</en>
+	<url>http://eyes-sell-world.googlecode.com/svn/trunk/China/hn.xml</url>
+	</video>
+	<video name="江苏">
+	<en>JiangSu</en>
+	<url>http://eyes-sell-world.googlecode.com/svn/trunk/China/jsnj2.xml</url>
+	</video>
+	<video name="广东">
+	<en>GuangDong</en>
+	<url>http://eyes-sell-world.googlecode.com/svn/trunk/China/gdsz.xml</url>
+	</video>
+	<video name="湖北">
+	<en>HuBei</en>
+	<url>http://eyes-sell-world.googlecode.com/svn/trunk/China/hbwh.xml</url>
+	</video>
+</root> 

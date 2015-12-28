@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root> 
+<video name="亚太">
+	<en>Asia-Pacific</en>
+<url>http://eyes-sell-world.googlecode.com/svn/trunk/Recommend/qqjdytdq.xml</url>
+</video>
+<video name="全球精选1">
+	<en>Global Select 1</en>
+<url>http://eyes-sell-world.googlecode.com/svn/trunk/Recommend/tuijian1.xml</url>
+</video>
+<video name="全球精选4">
+	<en>Global Select 4</en>
+<url>http://eyes-sell-world.googlecode.com/svn/trunk/Recommend/tuijian4.xml</url>
+</video>
+<video name="全球精选5">
+	<en>Global Select 5</en>
+<url>http://eyes-sell-world.googlecode.com/svn/trunk/Recommend/tuijian5.xml</url>
+</video>
+<video name="日本">
+<en>Japan</en>
+<url>http://eyes-sell-world.googlecode.com/svn/trunk/Recommend/qqjdrb1.xml</url>
+</video>
+
+<video name="全球精选2">
+<en>Global Select 2</en>
+<url>http://eyes-sell-world.googlecode.com/svn/trunk/Recommend/qqjdmg2.xml</url>
+</video>
+
+</root> 

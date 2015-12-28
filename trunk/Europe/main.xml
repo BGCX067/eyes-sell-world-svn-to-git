@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root> 
+<video name="爱尔兰">
+<en>Aierlan</en>
+<url>http://eyes-sell-world.googlecode.com/svn/trunk/Europe/aierlan.xml</url>
+</video>
+<video name="奥地利">
+	<en>Austria</en>
+<url>http://eyes-sell-world.googlecode.com/svn/trunk/Europe/aodili1.xml</url>
+</video>
+<video name="荷兰">
+	<en>Netherlands</en>
+<url>http://eyes-sell-world.googlecode.com/svn/trunk/Europe/helan1.xml</url>
+</video>
+<video name="意大利">
+	<en>Italy</en>
+<url>http://eyes-sell-world.googlecode.com/svn/trunk/Europe/Italy.xml</url>
+</video>
+<video name="法国">
+	<en>France</en>
+<url>http://eyes-sell-world.googlecode.com/svn/trunk/Europe/ozjx1.xml</url>
+</video>
+</root> 

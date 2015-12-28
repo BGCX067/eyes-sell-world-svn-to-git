@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+			
+<video name="巴黎大区 Paris 巴黎美丽的海岸42">
+	<en>Paris</en>
+<url>http://193.252.30.219/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="皮卡第 码头2-高清">
+	<en>Paris</en>
+<url>http://193.251.36.248/image?speed=0</url>
+</video>
+
+<video name="首都伯尔尼 Laupen 城市风景">
+	<en>Laupen</en>
+<url>http://hnhn.dyndns.tv:8400/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士苏黎世 Zurich 自助餐厅">
+	<en>Zurich</en>
+<url>http://webcam-mensa-hpr.ethz.ch/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士苏黎世 Bubikon 小码头-高清">
+	<en>Bubikon</en>
+<url>http://webcam.sscro.com/cgi-bin/faststream.jpg?stream=full::1;fps=5::1;rand=439357::1;quality=60::1;size=320x240</url>
+</video>
+
+<video name="瑞士日内瓦 Geneva 湖光山色2">
+	<en>Geneva</en>
+<url>http://seecam.axiscam.net:8001/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="瑞士卢塞恩 Luzern 桥头堡2">
+	<en>Luzern</en>
+<url>http://cam.luzern.org/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="奥地利-上奥地利 Zell Am Moos 雪山泳池 -普清">
+	<en>Zell Am Moos</en>
+<url>http://88.116.42.50/cgi-bin/mjpg/video.cgi?1337174703284::1;resolution=352x288</url>
+</video>
+
+<video name="奥地利-上奥地利 Neuhofen河流  -普清">
+	<en>Neuhofen</en>
+<url>http://80.123.249.194/mjpg/video.mjpg?resolution=320x240</url>
+</video>
+
+<video name="奥地利-萨尔茨堡 Wals山涧小溪  -高清">
+	<en>Wals</en>
+<url>http://85.199.39.250/cgi-bin/faststream.jpg?stream=full::1;fps=1::1;rand=94270</url>
+</video>
+
+<video name="奥地利-福拉尔贝格州 Gurtis街道2 -普清">
+	<en>Gurtis</en>
+<url>http://webcam-rathausgasse.bludenz.at/mjpg/video.mjpg?resolution=352x240</url>
+</video>
+
+<video name="奥地利-维也纳 Vienna山景（旋转摄像头） -普清">
+	<en>Vienna</en>
+<url>http://62.47.124.22/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="波兰-里布尼克喷泉">
+	<en>Paris</en>
+<url>http://212.244.173.167/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="波兰-城市鸟瞰">
+	<en>Paris</en>
+<url>http://91.200.38.22/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="波兰-科沃布热格海岸">
+	<en>Paris</en>
+<url>http://kamera01.arka-mega.pl/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="波兰-比亚韦斯托克广场的风景4">
+	<en>Paris</en>
+<url>http://bialystokonline2.axiscam.net:10200/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="冰岛-城市鸟瞰">
+	<en>Paris</en>
+<url>http://vefmyndavel.akureyri.is/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="冰岛港湾18">
+	<en>Paris</en>
+<url>http://213.190.124.40:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+<video name="加拿大-魁北克-蒙特利尔  政府大楼 -普清">
+	<en>Paris</en>
+<url>http://69.70.135.38/axis-cgi/mjpg/video.cgi?camera=1::1;resolution=320x240</url>
+</video>
+			
+</root>

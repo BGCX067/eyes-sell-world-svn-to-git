@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root> 
+<video name="荷兰.德伦特省 Hoogeveen 霍赫芬广场">
+	<en>Aierlan</en>
+<url>http://92.66.4.219:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.弗里斯兰省 Gorredijk 霍勒代克运河">
+	<en>Aierlan</en>
+<url>http://brugburdaard.axiscam.net/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.弗里斯兰省 Oldeberkoop 奥尔德伯科普海边">
+	<en>Aierlan</en>
+<url>http://83.161.221.160:3000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.弗里斯兰省 Koudum 考德姆湖边">
+	<en>Aierlan</en>
+<url>http://195.73.15.148:82/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.弗里斯兰省 Leeuwarden 吕伐登餐厅一角2">
+	<en>Aierlan</en>
+<url>http://tandartsmoonen.com:604/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.海尔德兰省 Doorwerth 机器人实验室">
+	<en>Aierlan</en>
+<url>http://bwired.nl:88/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.海尔德兰省 Wageningen 瓦赫宁恩 门口">
+	<en>Wageningen</en>
+<url>http://137.224.128.205/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.海尔德兰省 Hattem 哈特姆码头">
+	<en>Hattem</en>
+<url>http://92.67.241.217/nphMotionJpeg?Resolution=320x240::1;Quality=Motion::1;data=v.mjpg</url>
+</video>
+<video name="荷兰.海尔德兰省 Harderwijk 哈尔德韦克码头">
+	<en>Harderwijk</en>
+<url>http://mx.impression.nl:82/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.格罗宁根 Groningen 格罗宁根教堂">
+	<en>Groningen</en>
+<url>http://129.125.136.20/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.林堡省 Gennep 亨讷普小村屋顶">
+	<en>Gennep</en>
+<url>http://webcam.gennep.nl/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.北布拉班特省 Oss 奥斯海滨度假村">
+	<en>Oss</en>
+<url>http://80.101.164.169/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.北布拉班特省 Drimmelen 德里默伦户外">
+	<en>Drimmelen</en>
+<url>http://92.64.26.161:1080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.北布拉班特省 Nuenen 尼厄嫩休闲树林">
+	<en>Nuenen</en>
+<url>http://88.159.164.167:9001/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.北布拉班特省 Eersel 埃尔瑟尔转盘">
+	<en>Eersel</en>
+<url>http://82.92.166.224:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.北布拉班特省 Eindhoven 艾恩德霍芬公园人工湖2">
+	<en>Eindhoven</en>
+<url>http://131.155.18.5/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.北布拉班特省 Tilburg 蒂尔堡一角">
+	<en>Tilburg</en>
+<url>http://62.132.55.82/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.北布拉班特省 Eindhoven 艾恩德霍芬小公路3">
+	<en>Eindhoven</en>
+<url>http://87.213.192.191/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.北布拉班特省 Sambeek 狗狗户外活动室">
+	<en>Sambeek</en>
+<url>http://81.204.247.130:6112/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.北荷兰省 Amstelveen 阿姆斯特尔芬广场">
+	<en>Amstelveen</en>
+<url>http://mozart.amadeus-hotel.com:82/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.北荷兰省 Enkhuizen 恩克赫伊曾港湾">
+	<en>Enkhuizen</en>
+<url>http://server002.compagnieshaven.nl:8000/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.北荷兰省 Amsterdam 阿姆斯特丹小巷3">
+	<en>Amsterdam</en>
+<url>http://82.161.43.147:8080/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.北荷兰省 Amsterdam 阿姆斯特丹建筑顶楼4">
+	<en>Amsterdam</en>
+<url>http://212.123.205.51/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.北荷兰省 Amsterdam 阿姆斯特丹小巷 6">
+	<en>Amsterdam</en>
+<url>http://82.161.43.147:8083/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.北荷兰省 Amsterdam ">
+	<en>Amsterdam</en>
+<url>http://taftronic.dyndns.org:81/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.北荷兰省 Amsterdam 阿姆斯特丹交通路口11">
+	<en>Amsterdam</en>
+<url>http://incoma.xs4all.nl:8082/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.上艾瑟尔 Almelo 阿尔默洛公司室内">
+	<en>Almelo</en>
+<url>http://webcam.oa-systems.nl/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+<video name="荷兰.上艾瑟尔 Enschede 恩斯赫德室内">
+	<en>Enschede</en>
+<url>http://130.89.153.240/mjpg/video.mjpg?resolution=352x288</url>
+</video>
+
+</root> 
